@@ -1,19 +1,21 @@
-# form
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/VgqzdG0/Form.png" alt="Form" border="0"></a>
 
-## Project setup
-```
-npm install
-```
+## 🚀 Info
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+A aplicação se trata de um simples formulário de cadastro.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 👨‍💻 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Vuejs](https://vuejs.org/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+
+## ⚙️ Como rodar o projeto
+
+```sh
+$ npm install 
+$ npm run serve
