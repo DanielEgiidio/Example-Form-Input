@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/VgqzdG0/Form.png" alt="Form" border="0"></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/FR3NgMGq/Form.png' border='0' alt='Form'/></a>
 
 ## 🚀 Info
 
